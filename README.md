@@ -39,19 +39,6 @@
 * Successfully embedded dynamic **React modules inside an Angular core shell** application.
 * Implemented complex microfrontend strategies including component isolation, lazy loading, and shared auth states.
 
----
-
-## 📈 GitHub Stats
-
-| **My Contributions** | **Top Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=gautam-taneja&show_icons=true&theme=dark&hide_border=true" width="400" alt="GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautam-taneja&layout=compact&theme=dark&hide_border=true" width="350" alt="Top Languages" /> |
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautam-taneja&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## ⚡ About Me
 
@@ -75,4 +62,4 @@
   </a>
 </p>
 
-<p align="center">⭐️ Thanks for visiting my GitHub profile! <a href="https://github.com/gautam-taneja">gautam-taneja</a></p>
+<p align="center">⭐️ Thanks for visiting my GitHub profile! <a href="https://github.com/gautamtaneja">gautamtaneja</a></p>
