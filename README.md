@@ -39,6 +39,7 @@
 * Successfully embedded dynamic **React modules inside an Angular core shell** application.
 * Implemented complex microfrontend strategies including component isolation, lazy loading, and shared auth states.
 
+---
 
 ## ⚡ About Me
 
