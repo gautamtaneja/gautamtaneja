@@ -35,9 +35,6 @@
 * Architected a dedicated identity provider using **OpenIddict** to handle OAuth2 and OpenID Connect flows.
 * Secured distributed systems using JWT access tokens, refresh tokens, and granular **Role-Based Authorization**.
 
-### 🧩 React + Angular Microfrontend
-* Successfully embedded dynamic **React modules inside an Angular core shell** application.
-* Implemented complex microfrontend strategies including component isolation, lazy loading, and shared auth states.
 
 ---
 
