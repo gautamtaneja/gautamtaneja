@@ -72,16 +72,14 @@ Integrated React modules inside an Angular application.
 - JWT / OAuth / OIDC
 - REST APIs
 - Git
-- Docker
 - CI/CD
 
 ---
 
 # 📫 Contact
 
-- LinkedIn: Add your LinkedIn URL
-- Portfolio: Add your portfolio URL
-- Email: Add your email
+- LinkedIn: https://www.linkedin.com/in/gautam-taneja
+- Email: gautam.taneja@outlook.com
 
 ---
 
